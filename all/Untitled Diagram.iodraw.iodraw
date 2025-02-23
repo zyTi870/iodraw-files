@@ -181,13 +181,13 @@
         <mxCell id="Dyg77yCJcawxxDD5xmu4-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Dyg77yCJcawxxDD5xmu4-61" target="Dyg77yCJcawxxDD5xmu4-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dyg77yCJcawxxDD5xmu4-61" value="伸缩抽气（步进电机1，泵3）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Dyg77yCJcawxxDD5xmu4-61" value="伸缩抽气（步进电机1，泵3）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dyg77yCJcawxxDD5xmu4-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Dyg77yCJcawxxDD5xmu4-62" target="Dyg77yCJcawxxDD5xmu4-68">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dyg77yCJcawxxDD5xmu4-62" value="夹紧热封（步进电机2）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Dyg77yCJcawxxDD5xmu4-62" value="夹紧热封（步进电机2）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="1270" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dyg77yCJcawxxDD5xmu4-63" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="Dyg77yCJcawxxDD5xmu4-11">
