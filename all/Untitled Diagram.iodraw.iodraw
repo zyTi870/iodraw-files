@@ -227,10 +227,10 @@
             <mxPoint x="220" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Dyg77yCJcawxxDD5xmu4-78" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="Dyg77yCJcawxxDD5xmu4-78" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Dyg77yCJcawxxDD5xmu4-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="1150" as="sourcePoint" />
-            <mxPoint x="310" y="1100" as="targetPoint" />
+            <mxPoint x="90" y="1400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
